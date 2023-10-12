@@ -1,4 +1,6 @@
-# Hướng dẫn
+# Mô tả
+Đây là piên bản đầy đủ, không cần cài đặt, kích hoạt thủ công
+# Hướng dẫn cài đặt
 1. Giải nén
 2. Chạy file `Mathematica.exe` $\to$ trong cửa sổ, chọn `Other ways to activate`
 3. Trong cửa sổ tiếp theo, chọn `Manual Activation`
